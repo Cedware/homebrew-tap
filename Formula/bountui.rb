@@ -1,8 +1,8 @@
 class Bountui < Formula
   desc "A boundary terminal ui"
   homepage "https://github.com/Cedware/bountui"
-  url "https://github.com/Cedware/bountui/releases/download/v0.15.0/bountui-0.15.0-aarch64-apple-darwin.zip"
-  sha256 "df8fe02ef702b4e178875a8ed68dcd9f48ffe183ea70043a54315d60e5c9dd33"
+  url "https://github.com/Cedware/bountui/releases/download/v0.16.0/bountui-0.16.0-aarch64-apple-darwin.zip"
+  sha256 "74d4bc00da8cdfb932354bc796f960070c4af61a345352dd28e65c2322daa146"
   license "GPL-3.0"
 
   depends_on "hashicorp/tap/boundary"
